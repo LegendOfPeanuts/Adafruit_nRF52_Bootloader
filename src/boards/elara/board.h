@@ -58,7 +58,7 @@
 #define USB_DESC_CDC_ONLY_PID  0x0030
 
 #define UF2_PRODUCT_NAME  "elara_dev_board"
-#define UF2_VOLUME_LABEL  "ELARA_PEANUTS"
+#define UF2_VOLUME_LABEL  "ELARA"
 #define UF2_BOARD_ID      "elara_dev_board"
 #define UF2_INDEX_URL     "https://github.com/LegendOfPeanuts"
 
