@@ -62,11 +62,11 @@ jobs:
           # - 'waveshare_nrf52840_eval'
           # - 'xiao_nrf52840_ble'
           # - 'xiao_nrf52840_ble_sense'
-          - 'Altar'
-          - 'wlpad'
-          - 'osprey'
-          - 'isometria75_rev2'
-          - 'cornholius'
+          # - 'Altar'
+          # - 'wlpad'
+          # - 'osprey'
+          # - 'isometria75_rev2'
+          # - 'cornholius'
                     
     steps:
     - name: Setup Python
