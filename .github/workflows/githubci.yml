@@ -68,6 +68,7 @@ jobs:
           # - 'isometria75_rev2'
           # - 'cornholius'
           - 'elara'
+          - 'lyra'
                     
     steps:
     - name: Setup Python
